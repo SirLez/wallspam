@@ -3,6 +3,7 @@ import os
 #SirLez
 #wallspam
 #i see u
+os.system("clear")
 print("\033[1;36m Amino :  \033[1;34mSirLez \n \n \033[1;36minsta : \033[1;34m SirLe0x \n \n \n")
 client=amino.Client()
 ss=0
